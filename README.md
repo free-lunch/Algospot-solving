@@ -9,5 +9,6 @@
 - LIS (LIS) [[link](https://algospot.com/judge/problem/read/JLIS)]
 - 삼각형 위의 최대 경로(TRIANGLEPATH)
 [[link](https://algospot.com/judge/problem/read/TRIANGLEPATH)]
-- 와일드카드 (WILDCARD) [[link](https://algospot.com/judge/problem/read/WILDCARD)]
-- JUMPGAME (solving)
+- 와일드카드(WILDCARD) [[link](https://algospot.com/judge/problem/read/WILDCARD)]
+- 외발 뛰기(JUMPGAME)
+[[link](https://algospot.com/judge/problem/read/JUMPGAME)]
