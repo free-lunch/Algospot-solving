@@ -30,6 +30,7 @@ if __name__ == "__main__":
             graph[v1][v2] = cost
             graph[v2][v1] = cost
 
+        floyd()
         count = 0
         for _ in xrange(N):
             v1, v2, cost = map(int, rl().split())
